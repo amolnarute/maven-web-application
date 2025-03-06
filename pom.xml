@@ -24,7 +24,7 @@
 		<sonar.host.url>http://:9000</sonar.host.url> <!-- Fixed URL -->
 		<sonar.host.url>http://:9000</sonar.host.url> <!-- Fixed URL -->
 		<sonar.host.url>http://13.234.21.15:9000</sonar.host.url> <!-- Fixed URL -->
-		<sonar.login>sonaadmin</sonar.login>
+		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
